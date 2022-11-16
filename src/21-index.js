@@ -1,8 +1,9 @@
 import './css/common.css';
 
-import './js/c - post';
-import './js/u - patch';
-import './js/d - delete';
+import './js/t-get';
+// import './js/c-post';
+// import './js/u-patch';
+// import './js/d-delete';
 
 // Пакет json-server https://github.com/typicode/json-server
 // Postman/Postwoman/Insomnia и т. д.
